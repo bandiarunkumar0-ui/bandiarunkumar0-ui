@@ -1,13 +1,15 @@
 <div align="center">
 
-# Arun Kumar Bandi
-### Data Analyst | B.Tech CSE (3rd Year)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2C3E50&height=180&section=header&text=Arun%20Kumar%20Bandi&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20B.Tech%20CSE%20(3rd%20Year)&descAlignY=60&descSize=16" width="100%" />
 
-Turning raw data into actionable business insights through Python, SQL, and data visualization.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insights;Python+%7C+SQL+%7C+PostgreSQL+%7C+Tableau;Seeking+Data+Analyst+internships+for+2026" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumar-bandi-a79728354)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bandiarunkumar.ab@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bandiarunkumar)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunkumar-bandi-a79728354)
+[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandiarunkumar.ab@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bandiarunkumar)
+![Profile Views](https://komarev.com/ghpvc/?username=bandiarunkumar&label=Profile+Views&color=2C3E50&style=for-the-badge)
 
 </div>
 
@@ -27,6 +29,10 @@ I'm currently seeking **Data Analyst / Data Science internship opportunities for
 ---
 
 ## Technical Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,react,html,css,js,git,github,vscode&perline=10" alt="Skills" />
+</div>
 
 | Category | Tools |
 |---|---|
@@ -68,3 +74,7 @@ An end-to-end data analytics project analyzing 3,900 customer records to uncover
 - **GitHub:** [@bandiarunkumar](https://github.com/bandiarunkumar)
 
 Open to Data Analyst internship opportunities and collaborations involving data analysis, SQL, and dashboard design.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:1F4E79&height=100&section=footer" width="100%"/>
