@@ -19,7 +19,7 @@
   <table border="0" style="border-collapse: collapse; background: #0a0a0a; border-radius: 20px; padding: 12px 24px;">
     <tr>
       <td style="padding: 10px 20px;" align="center">
-        <img src="https://komarev.com/ghpvc/?username=bandiarunkumar0-ui&label=Profile+Views&color=ff2a2a&style=for-the-badge" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=bandiarunkumar&label=Profile+Views&color=ff2a2a&style=for-the-badge" alt="Profile Views" />
       </td>
       <td style="padding: 10px 20px;" align="center">
         <a href="https://www.linkedin.com/in/arunkumar-bandi-a79728354" target="_blank">
@@ -49,13 +49,13 @@
       <p><i><code>Status: Actively building and shipping projects.</code></i></p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=bandiarunkumar0-ui&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=ff2a2a&icon_color=1F4E79&text_color=f8f8f2&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=bandiarunkumar&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=ff2a2a&icon_color=1F4E79&text_color=f8f8f2&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandiarunkumar0-ui&layout=compact&theme=radical&bg_color=0a0a0a&title_color=ff2a2a&icon_color=1F4E79&text_color=f8f8f2&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandiarunkumar&layout=compact&theme=radical&bg_color=0a0a0a&title_color=ff2a2a&icon_color=1F4E79&text_color=f8f8f2&hide_border=true" width="100%" alt="Top Languages" />
     </td>
     <td width="55%" align="left" valign="middle">
       <h3>🔮 Tech Stack Breakdown</h3>
@@ -70,13 +70,13 @@
       <p><i><code>Loop: while learning -> build, analyze, repeat.</code></i></p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bandiarunkumar0-ui&theme=radical&background=0a0a0a&title=ff2a2a&sideNums=f8f8f2&sideLabels=1F4E79&ring=ff2a2a&fire=ff2a2a&stroke=0a0a0a" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bandiarunkumar&theme=radical&background=0a0a0a&title=ff2a2a&sideNums=f8f8f2&sideLabels=1F4E79&ring=ff2a2a&fire=ff2a2a&stroke=0a0a0a" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandiarunkumar0-ui&theme=redical&bg_color=0a0a0a&color=ff2a2a&line=1F4E79&point=f8f8f2&hide_border=true" width="100%" alt="Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bandiarunkumar&theme=radical&bg_color=0a0a0a&color=ff2a2a&line=1F4E79&point=f8f8f2&hide_border=true" width="100%" alt="Activity Graph" />
     </td>
     <td width="55%" align="left" valign="middle">
       <h3>📈 Contribution Timeline</h3>
@@ -143,8 +143,8 @@ I use modern AI tools as accelerators in my development and analysis pipeline:
 <table border="0" width="100%">
   <tr>
     <td width="100%" align="center">
-      <a href="https://github.com/bandiarunkumar0-ui/customer-shopping-behavior-analysis" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bandiarunkumar0-ui&repo=customer-shopping-behavior-analysis&theme=radical&bg_color=0a0a0a&title_color=ff2a2a&icon_color=1F4E79&text_color=f8f8f2&hide_border=true" width="100%" alt="Customer Shopping Behavior Analysis" />
+      <a href="https://github.com/bandiarunkumar/customer-shopping-behavior-analysis" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bandiarunkumar&repo=customer-shopping-behavior-analysis&theme=radical&bg_color=0a0a0a&title_color=ff2a2a&icon_color=1F4E79&text_color=f8f8f2&hide_border=true" width="100%" alt="Customer Shopping Behavior Analysis" />
       </a>
     </td>
   </tr>
@@ -160,9 +160,9 @@ I use modern AI tools as accelerators in my development and analysis pipeline:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bandiarunkumar0-ui/bandiarunkumar0-ui/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bandiarunkumar0-ui/bandiarunkumar0-ui/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bandiarunkumar0-ui/bandiarunkumar0-ui/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bandiarunkumar/bandiarunkumar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bandiarunkumar/bandiarunkumar/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bandiarunkumar/bandiarunkumar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -180,11 +180,11 @@ I use modern AI tools as accelerators in my development and analysis pipeline:
   <table border="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" style="padding: 0 25px;">
-        <a href="https://github.com/bandiarunkumar0-ui" target="_blank">
+        <a href="https://github.com/bandiarunkumar" target="_blank">
           <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
         </a>
         <br/>
-        <sub style="color: #1F4E79; font-weight: bold;">/bandiarunkumar0-ui</sub>
+        <sub style="color: #1F4E79; font-weight: bold;">/bandiarunkumar</sub>
       </td>
       <td align="center" style="padding: 0 25px;">
         <a href="https://www.linkedin.com/in/arunkumar-bandi-a79728354" target="_blank">
